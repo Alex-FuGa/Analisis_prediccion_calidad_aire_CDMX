@@ -84,7 +84,7 @@ El modelo logró capturar el patrón estacional y la forma de la serie, aunque s
 
 Puedes explorar el desarrollo completo del análisis y modelado en el siguiente notebook:
 
-👉 [Ver notebook](notebooks/analisis_nox_sarima.ipynb)
+👉 [Ver notebook](notebooks/Analisis_calidad_aire_CDMX.ipynb)
 
 ---
 ## 📌 Notas
